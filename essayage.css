@@ -10,6 +10,16 @@
 body{
 	background: linear-gradient(to right, #3525af, #9153c9);
 }
+.left{
+	background: #292b2f;
+	width: 250px;
+	padding: 0 20px;
+}
+
+.right{
+	width: calc(100% - 250px);
+}
+
 
 .resume{
 	width: 800px;
