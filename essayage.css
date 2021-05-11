@@ -11,16 +11,14 @@ body{
 	background: linear-gradient(to right, #3525af, #9153c9);
 }
 
-
-.left{
-	background: #292b2f;
-	width: 250px;
-	padding: 0 20px;
+.resume{
+	width: 800px;
+	background: #fff;
+	margin: 25px auto;
+	display: flex;
 }
 
-.right{
-	width: calc(100% - 250px);
-}
+
 
 .left .img_holder{
 	text-align: center;
